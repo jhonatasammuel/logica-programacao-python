@@ -30,4 +30,3 @@ Este repositório contém uma trilha de projetos práticos desenvolvidos durante
 - **Modularização**: Criação de funções com passagem de parâmetros e retornos.
 
 ---
-**Status**: 🚀 Todos os exercícios atendem 100% dos requisitos acadêmicos e de saída de console.
